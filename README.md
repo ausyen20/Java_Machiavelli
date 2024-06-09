@@ -11,11 +11,15 @@ Game Rules:
 
 The valid combinations in Machiavelli:
 Straight
+
   - A set consists of three or four cards of the same rank with different suits. For example, a set of (3♣, 3♦ , 3♠)
 Sequence
+
   - A set consists of three or more cards in consecutive order of the same suit. For example, a set of (4♥, 5♥, 6♥, 7♥)
   - A sequence can only contain an Ace as the first or last card in the melds. For example, a set of (A♣, 2♣, 3♣) or (Q♦, K♦,A♦)
-Drawing:
+
+Drawing
   - A card has to be drawn if a player is unable to form a valid meld on its turn.
-Take a Turn:
+
+Take a Turn
   - Players need to take a turn by using the End Turn button in the top-left corner. 
